@@ -1,4 +1,4 @@
-# Parallel-Parking
+# Parallel Parking
 <h3>Hardware Components:</h3>
 ATmega32<br>
 4 Ultrasonic Sensors<br>
